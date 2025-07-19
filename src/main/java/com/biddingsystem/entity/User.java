@@ -46,4 +46,14 @@ public class User {
 	
 	private String status;
 
+	public void setEmailId(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setPassword(String encode) {
+		// TODO Auto-generated method stub
+		
+	}
+
 }
